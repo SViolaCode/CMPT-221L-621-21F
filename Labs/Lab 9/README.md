@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+If I had to deploy a website I would do it though AWS. First I would have to make an account with Since im a beginner webiste developer I would use the free version before commiting the money to the pro version. I would use EC2 as the service for launching my website. This would give me an IP instead of a URL though, which I would have to register with a domain name provider. Once I have my key pair and public DNS registered I can run the DNS in the command prompt and launch the server.
